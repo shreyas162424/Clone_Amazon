@@ -322,10 +322,10 @@ ul a{
 
 .foot-panel4{
    position: relative;
-    top:550px;
+    top:520px;
     background-color: #131A22;
     color:white;
-    height:70px;
+    height:65px;
     text-align: center;
     /* display: flex;
     justify-content: center; 
@@ -342,8 +342,8 @@ ul a{
 
 .copyright{
     padding-top: 5px;
-    /* font-size: 0.7rem;
-    text-align: center; */
+    /* font-size: 0.7rem; */
+    /*text-align: center; */
 
 }
 
